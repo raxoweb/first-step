@@ -92,9 +92,13 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+If you go to your repository on GitHub, you'll see a  `Pull request & Compare` button. Click on Compare button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+
+Click on *Create pull request*
+
+<img style="float: right;" src="assets/pull-request.png" alt="submit pull request" />
 
 Now submit the pull request.
 
