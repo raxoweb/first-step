@@ -35,6 +35,8 @@ git clone "url you just copied"
 ```
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
+
+
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
@@ -116,7 +118,7 @@ Celebrate your contribution and share it with your friends and followers.
 
 #### *[Raxoweb First Step](https://github.com/raxoweb-first-step/)*
 
-#### Raxoweb official website:  
+#### Raxoweb official website:    
 
 [<img width="90" src="assets/logo-full.png">](https://www.raxoweb.com/)
 
