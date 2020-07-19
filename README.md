@@ -3,7 +3,7 @@
 [![License-MIT-green.svg](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-# First Step TO Improving Your Coding Skills
+# First Step TO Improve Your Coding Skills
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new coder collaborate for the first time with this community.
 
