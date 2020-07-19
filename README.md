@@ -13,19 +13,18 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *You need git installed in your PC/Laptop*
 
-<h4><a href="https://git-scm.com/" target="_blank" style="color:tomato; text-decoration:none"> Install GIT</a><h4>
-
+#### [Install GIT](https://git-scm.com/)
 
 ## Fork this repository
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" style="box-shadow: 2px #888888;" width="300" src="assets/fork.png" alt="fork this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" style="box-shadow: 2px #888888;" width="300" src="assets/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
@@ -36,7 +35,7 @@ git clone "url you just copied"
 ```
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" style="box-shadow: 2px #888888;" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 ```
@@ -95,15 +94,15 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a  `Pull request & Compare` button. Click on Compare button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right; box-shadow: 2px #888888;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
 Click on *Create pull request*
 
-<img style="float: right;" src="assets/pull-request.png" alt="submit pull request" />
+<img style="float: right; box-shadow: 2px #888888;" src="assets/pull-request.png" alt="submit pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right; box-shadow: 2px #888888;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
