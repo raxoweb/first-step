@@ -13,7 +13,8 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *You need git installed in your PC/Laptop*
 
-#### <a href="https://git-scm.com/" style="color:#f05333"> Install GIT</a>
+<h4><a href="https://git-scm.com/" target="_blank" style="color:tomato; text-decoration:none"> Install GIT</a><h4>
+
 
 ## Fork this repository
 
