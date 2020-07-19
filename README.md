@@ -90,5 +90,35 @@ git push origin <add-your-branch-name>
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
 
+## Submit your changes for review
+
+If you go to your repository on GitHub, you'll see a  `Pull request & Compare` button. Click on Compare button.
+
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+
+Click on *Create pull request*
+
+<img style="float: right;" src="assets/pull-request.png" alt="submit pull request" />
+
+Now submit the pull request.
+
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+## Where to go from here?
+
+Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+
+Celebrate your contribution and share it with your friends and followers.
+
+#### Pick a project from raxoweb-first-step repository start collaborating with other members of that project.
+
+*[Raxoweb First Step](https://github.com/raxoweb-first-step/)*
+
+
+
+
+
 
 
