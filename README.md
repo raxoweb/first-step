@@ -10,14 +10,14 @@ It's hard. It's always hard the first time you do something. Especially when you
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first commit. If you are looking to make your first collaboration, follow the steps below.
 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-
 
 #### *You need git installed in your PC/Laptop*
 
 #### [Install GIT](https://git-scm.com/)
 
 ## Fork this repository
+
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
